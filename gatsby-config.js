@@ -1,0 +1,1 @@
+const site = require("./content/site.json"); module.exports = { siteMetadata: { title: site.name, description: site.description, siteUrl: site.domain ? "https://" + site.domain : "https://example.com" }, plugins: [] };

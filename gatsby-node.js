@@ -1,0 +1,1 @@
+const path = require("path"); const posts = require("./content/posts.json"); exports.createPages = async ({actions}) => { for(const post of posts) actions.createPage({ path: `/posts/${post.slug}/`, component: path.resolve("./src/templates/post.js"), context: {slug: post.slug} }); };
