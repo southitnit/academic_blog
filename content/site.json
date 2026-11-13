@@ -1,7 +1,7 @@
 {
-  "name": "Meu primeiro blog",
-  "description": "Ideias, pesquisas e artigos",
+  "name": "Pedro Mattos Blog",
+  "description": "Pesquisa acadêmica em diversos assuntos, desde tecnologia e dados a negócios e marketing.",
   "domain": "",
-  "theme": "academic",
+  "theme": "tech",
   "accent": "#2563eb"
 }
