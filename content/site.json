@@ -2,6 +2,6 @@
   "name": "Pedro Mattos Blog",
   "description": "Pesquisa acadêmica em diversos assuntos, desde tecnologia e dados a negócios e marketing.",
   "domain": "",
-  "theme": "tech",
-  "accent": "#2563eb"
+  "theme": "minimal",
+  "accent": "#b624eb"
 }
